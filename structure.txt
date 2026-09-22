@@ -1,0 +1,2583 @@
+﻿Folder PATH listing
+Volume serial number is 3631-C9A2
+D:.
++---.venv
+|   +---include
+|   |   \---site
+|   |       \---python3.12
+|   |           \---greenlet
+|   +---Lib
+|   |   \---site-packages
+|   |       +---annotated_doc
+|   |       |   \---__pycache__
+|   |       +---annotated_doc-0.0.5.dist-info
+|   |       |   \---licenses
+|   |       +---annotated_types
+|   |       |   \---__pycache__
+|   |       +---annotated_types-0.8.0.dist-info
+|   |       |   \---licenses
+|   |       +---anyio
+|   |       |   +---abc
+|   |       |   |   \---__pycache__
+|   |       |   +---streams
+|   |       |   +---_backends
+|   |       |   +---_core
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---anyio-4.15.1.dist-info
+|   |       |   \---licenses
+|   |       +---certifi
+|   |       |   \---tests
+|   |       +---certifi-2026.7.22.dist-info
+|   |       |   \---licenses
+|   |       +---cffi
+|   |       +---cffi-2.1.1.dist-info
+|   |       |   \---licenses
+|   |       +---charset_normalizer
+|   |       |   \---cli
+|   |       +---charset_normalizer-3.5.1.dist-info
+|   |       |   \---licenses
+|   |       +---click
+|   |       +---click-8.5.0.dist-info
+|   |       |   \---licenses
+|   |       +---cloudpickle
+|   |       +---cloudpickle-3.1.2.dist-info
+|   |       |   \---licenses
+|   |       +---colorama
+|   |       |   \---tests
+|   |       +---colorama-0.4.6.dist-info
+|   |       |   \---licenses
+|   |       +---cryptography
+|   |       |   +---hazmat
+|   |       |   |   +---asn1
+|   |       |   |   +---backends
+|   |       |   |   |   \---openssl
+|   |       |   |   +---bindings
+|   |       |   |   |   +---openssl
+|   |       |   |   |   \---_rust
+|   |       |   |   |       \---openssl
+|   |       |   |   +---decrepit
+|   |       |   |   |   \---ciphers
+|   |       |   |   \---primitives
+|   |       |   |       +---asymmetric
+|   |       |   |       +---ciphers
+|   |       |   |       +---kdf
+|   |       |   |       +---serialization
+|   |       |   |       \---twofactor
+|   |       |   \---x509
+|   |       +---cryptography-50.0.1.dist-info
+|   |       |   +---licenses
+|   |       |   \---sboms
+|   |       +---distro
+|   |       +---distro-1.9.0.dist-info
+|   |       +---docx
+|   |       |   +---dml
+|   |       |   +---drawing
+|   |       |   +---enum
+|   |       |   +---image
+|   |       |   +---opc
+|   |       |   |   \---parts
+|   |       |   +---oxml
+|   |       |   |   \---text
+|   |       |   +---parts
+|   |       |   +---styles
+|   |       |   +---templates
+|   |       |   |   \---default-docx-template
+|   |       |   |       +---customXml
+|   |       |   |       |   \---_rels
+|   |       |   |       +---docProps
+|   |       |   |       +---word
+|   |       |   |       |   +---theme
+|   |       |   |       |   \---_rels
+|   |       |   |       \---_rels
+|   |       |   \---text
+|   |       +---dotenv
+|   |       |   \---__pycache__
+|   |       +---fastapi
+|   |       |   +---.agents
+|   |       |   |   \---skills
+|   |       |   |       \---fastapi
+|   |       |   |           \---references
+|   |       |   +---dependencies
+|   |       |   |   \---__pycache__
+|   |       |   +---middleware
+|   |       |   |   \---__pycache__
+|   |       |   +---openapi
+|   |       |   |   \---__pycache__
+|   |       |   +---security
+|   |       |   |   \---__pycache__
+|   |       |   +---_compat
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---fastapi-0.141.1.dist-info
+|   |       |   \---licenses
+|   |       +---filelock
+|   |       |   \---_soft_rw
+|   |       +---filelock-4.0.0.dist-info
+|   |       |   \---licenses
+|   |       +---fsspec
+|   |       |   +---implementations
+|   |       |   \---tests
+|   |       |       \---abstract
+|   |       +---fsspec-2026.9.0.dist-info
+|   |       |   \---licenses
+|   |       +---functorch
+|   |       |   +---compile
+|   |       |   +---dim
+|   |       |   +---einops
+|   |       |   +---experimental
+|   |       |   \---_src
+|   |       |       +---aot_autograd
+|   |       |       +---eager_transforms
+|   |       |       +---make_functional
+|   |       |       \---vmap
+|   |       +---google
+|   |       |   +---auth
+|   |       |   |   +---aio
+|   |       |   |   |   \---transport
+|   |       |   |   +---compute_engine
+|   |       |   |   +---crypt
+|   |       |   |   \---transport
+|   |       |   +---genai
+|   |       |   |   +---tests
+|   |       |   |   |   +---afc
+|   |       |   |   |   +---batches
+|   |       |   |   |   +---caches
+|   |       |   |   |   +---chats
+|   |       |   |   |   +---client
+|   |       |   |   |   +---common
+|   |       |   |   |   +---documents
+|   |       |   |   |   +---errors
+|   |       |   |   |   +---files
+|   |       |   |   |   +---file_search_stores
+|   |       |   |   |   +---gaos
+|   |       |   |   |   +---imports
+|   |       |   |   |   +---interactions
+|   |       |   |   |   +---live
+|   |       |   |   |   +---live_api
+|   |       |   |   |   +---local_tokenizer
+|   |       |   |   |   +---mcp
+|   |       |   |   |   +---models
+|   |       |   |   |   +---operations
+|   |       |   |   |   +---public_samples
+|   |       |   |   |   +---shared
+|   |       |   |   |   |   +---batches
+|   |       |   |   |   |   +---caches
+|   |       |   |   |   |   +---chats
+|   |       |   |   |   |   +---files
+|   |       |   |   |   |   +---models
+|   |       |   |   |   |   \---tunings
+|   |       |   |   |   +---tokens
+|   |       |   |   |   +---transformers
+|   |       |   |   |   +---tunings
+|   |       |   |   |   \---types
+|   |       |   |   \---_gaos
+|   |       |   |       +---errors
+|   |       |   |       +---lib
+|   |       |   |       +---models
+|   |       |   |       |   \---internal
+|   |       |   |       +---resources
+|   |       |   |       |   +---agents
+|   |       |   |       |   +---credentials
+|   |       |   |       |   +---environments
+|   |       |   |       |   |   +---createenvironmentrequest
+|   |       |   |       |   |   \---environment
+|   |       |   |       |   +---interactions
+|   |       |   |       |   |   +---codeexecutioncallstep
+|   |       |   |       |   |   +---codemenderagentconfig
+|   |       |   |       |   |   |   +---findrequest
+|   |       |   |       |   |   |   \---fixrequest
+|   |       |   |       |   |   +---environment
+|   |       |   |       |   |   +---errorevent
+|   |       |   |       |   |   +---googlemapscallstep
+|   |       |   |       |   |   +---googlemapsresult
+|   |       |   |       |   |   |   \---place
+|   |       |   |       |   |   +---googlemapsresultstep
+|   |       |   |       |   |   |   \---result
+|   |       |   |       |   |   |       \---place
+|   |       |   |       |   |   +---googlesearchcallstep
+|   |       |   |       |   |   +---googlesearchresultstep
+|   |       |   |       |   |   +---placecitation
+|   |       |   |       |   |   +---retrievalcalldelta
+|   |       |   |       |   |   +---retrievalcallstep
+|   |       |   |       |   |   +---stepdelta
+|   |       |   |       |   |   +---tool
+|   |       |   |       |   |   |   \---retrieval
+|   |       |   |       |   |   +---transcriptionmode
+|   |       |   |       |   |   +---urlcontextcallstep
+|   |       |   |       |   |   +---urlcontextresultstep
+|   |       |   |       |   |   +---usage
+|   |       |   |       |   |   \---videocontent
+|   |       |   |       |   +---triggers
+|   |       |   |       |   \---webhooks
+|   |       |   |       +---types
+|   |       |   |       |   +---agents
+|   |       |   |       |   +---credentials
+|   |       |   |       |   +---environments
+|   |       |   |       |   +---interactions
+|   |       |   |       |   +---triggers
+|   |       |   |       |   \---webhooks
+|   |       |   |       +---utils
+|   |       |   |       \---_hooks
+|   |       |   \---oauth2
+|   |       +---google_auth-2.58.0.dist-info
+|   |       |   \---licenses
+|   |       +---google_genai-2.24.0.dist-info
+|   |       |   \---licenses
+|   |       +---greenlet
+|   |       |   +---platform
+|   |       |   +---tests
+|   |       |   \---__pycache__
+|   |       +---greenlet-3.5.6.dist-info
+|   |       |   \---licenses
+|   |       +---h11
+|   |       +---h11-0.16.0.dist-info
+|   |       |   \---licenses
+|   |       +---hf_xet
+|   |       +---hf_xet-1.6.0.dist-info
+|   |       |   +---licenses
+|   |       |   \---sboms
+|   |       +---httpcore
+|   |       |   +---_async
+|   |       |   +---_backends
+|   |       |   \---_sync
+|   |       +---httpcore-1.0.9.dist-info
+|   |       |   \---licenses
+|   |       +---httptools
+|   |       |   \---parser
+|   |       +---httptools-0.8.0.dist-info
+|   |       |   \---licenses
+|   |       |       \---vendor
+|   |       |           +---http-parser
+|   |       |           \---llhttp
+|   |       +---httpx
+|   |       |   \---_transports
+|   |       +---httpx-0.28.1.dist-info
+|   |       |   \---licenses
+|   |       +---huggingface_hub
+|   |       |   +---cli
+|   |       |   +---inference
+|   |       |   |   +---_generated
+|   |       |   |   |   \---types
+|   |       |   |   +---_mcp
+|   |       |   |   \---_providers
+|   |       |   +---serialization
+|   |       |   +---templates
+|   |       |   +---utils
+|   |       |   \---_hot_reload
+|   |       +---huggingface_hub-1.32.0.dist-info
+|   |       |   \---licenses
+|   |       +---idna
+|   |       +---idna-3.20.dist-info
+|   |       |   \---licenses
+|   |       +---jinja2
+|   |       +---jinja2-3.1.6.dist-info
+|   |       |   \---licenses
+|   |       +---joblib
+|   |       |   +---externals
+|   |       |   |   \---loky
+|   |       |   |       \---backend
+|   |       |   \---test
+|   |       |       \---data
+|   |       +---joblib-1.6.0.dist-info
+|   |       |   \---licenses
+|   |       +---lxml
+|   |       |   +---html
+|   |       |   +---includes
+|   |       |   |   +---extlibs
+|   |       |   |   +---libexslt
+|   |       |   |   +---libxml
+|   |       |   |   \---libxslt
+|   |       |   \---isoschematron
+|   |       |       \---resources
+|   |       |           +---rng
+|   |       |           \---xsl
+|   |       |               \---iso-schematron-xslt1
+|   |       +---lxml-6.1.3.dist-info
+|   |       |   \---licenses
+|   |       +---markdown_it
+|   |       |   +---cli
+|   |       |   +---common
+|   |       |   +---helpers
+|   |       |   +---presets
+|   |       |   +---rules_block
+|   |       |   +---rules_core
+|   |       |   \---rules_inline
+|   |       +---markdown_it_py-4.2.0.dist-info
+|   |       |   \---licenses
+|   |       +---markupsafe
+|   |       +---markupsafe-3.0.3.dist-info
+|   |       |   \---licenses
+|   |       +---mdurl
+|   |       +---mdurl-0.1.2.dist-info
+|   |       +---mpmath
+|   |       |   +---calculus
+|   |       |   +---functions
+|   |       |   +---libmp
+|   |       |   +---matrices
+|   |       |   \---tests
+|   |       +---mpmath-1.3.0.dist-info
+|   |       +---narwhals
+|   |       |   +---stable
+|   |       |   |   +---v1
+|   |       |   |   \---v2
+|   |       |   +---testing
+|   |       |   |   \---asserts
+|   |       |   +---_arrow
+|   |       |   +---_compliant
+|   |       |   +---_dask
+|   |       |   +---_duckdb
+|   |       |   +---_ibis
+|   |       |   +---_interchange
+|   |       |   +---_pandas_like
+|   |       |   +---_polars
+|   |       |   +---_spark_like
+|   |       |   \---_sql
+|   |       +---narwhals-2.26.0.dist-info
+|   |       |   \---licenses
+|   |       +---networkx
+|   |       |   +---algorithms
+|   |       |   |   +---approximation
+|   |       |   |   |   \---tests
+|   |       |   |   +---assortativity
+|   |       |   |   |   \---tests
+|   |       |   |   +---bipartite
+|   |       |   |   |   \---tests
+|   |       |   |   +---centrality
+|   |       |   |   |   \---tests
+|   |       |   |   +---coloring
+|   |       |   |   |   \---tests
+|   |       |   |   +---community
+|   |       |   |   |   \---tests
+|   |       |   |   +---components
+|   |       |   |   |   \---tests
+|   |       |   |   +---connectivity
+|   |       |   |   |   \---tests
+|   |       |   |   +---flow
+|   |       |   |   |   \---tests
+|   |       |   |   +---isomorphism
+|   |       |   |   |   \---tests
+|   |       |   |   +---link_analysis
+|   |       |   |   |   \---tests
+|   |       |   |   +---minors
+|   |       |   |   |   \---tests
+|   |       |   |   +---operators
+|   |       |   |   |   \---tests
+|   |       |   |   +---shortest_paths
+|   |       |   |   |   \---tests
+|   |       |   |   +---tests
+|   |       |   |   +---traversal
+|   |       |   |   |   \---tests
+|   |       |   |   \---tree
+|   |       |   |       \---tests
+|   |       |   +---classes
+|   |       |   |   \---tests
+|   |       |   +---drawing
+|   |       |   |   \---tests
+|   |       |   |       \---baseline
+|   |       |   +---generators
+|   |       |   |   \---tests
+|   |       |   +---linalg
+|   |       |   |   \---tests
+|   |       |   +---readwrite
+|   |       |   |   +---json_graph
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---tests
+|   |       |   \---utils
+|   |       |       \---tests
+|   |       +---networkx-3.6.1.dist-info
+|   |       |   \---licenses
+|   |       +---numpy
+|   |       |   +---char
+|   |       |   +---core
+|   |       |   +---ctypeslib
+|   |       |   +---doc
+|   |       |   +---f2py
+|   |       |   |   +---src
+|   |       |   |   +---tests
+|   |       |   |   |   \---src
+|   |       |   |   |       +---abstract_interface
+|   |       |   |   |       +---array_from_pyobj
+|   |       |   |   |       +---assumed_shape
+|   |       |   |   |       +---block_docstring
+|   |       |   |   |       +---callback
+|   |       |   |   |       +---cli
+|   |       |   |   |       +---common
+|   |       |   |   |       +---crackfortran
+|   |       |   |   |       +---f2cmap
+|   |       |   |   |       +---inplace
+|   |       |   |   |       +---isocintrin
+|   |       |   |   |       +---kind
+|   |       |   |   |       +---mixed
+|   |       |   |   |       +---modules
+|   |       |   |   |       |   +---gh25337
+|   |       |   |   |       |   \---gh26920
+|   |       |   |   |       +---negative_bounds
+|   |       |   |   |       +---parameter
+|   |       |   |   |       +---quoted_character
+|   |       |   |   |       +---regression
+|   |       |   |   |       +---return_character
+|   |       |   |   |       +---return_complex
+|   |       |   |   |       +---return_integer
+|   |       |   |   |       +---return_logical
+|   |       |   |   |       +---return_real
+|   |       |   |   |       +---routines
+|   |       |   |   |       +---size
+|   |       |   |   |       +---string
+|   |       |   |   |       \---value_attrspec
+|   |       |   |   \---_backends
+|   |       |   +---fft
+|   |       |   |   \---tests
+|   |       |   +---lib
+|   |       |   |   \---tests
+|   |       |   |       \---data
+|   |       |   +---linalg
+|   |       |   |   \---tests
+|   |       |   +---ma
+|   |       |   |   \---tests
+|   |       |   +---matrixlib
+|   |       |   |   \---tests
+|   |       |   +---polynomial
+|   |       |   |   \---tests
+|   |       |   +---random
+|   |       |   |   +---lib
+|   |       |   |   +---tests
+|   |       |   |   |   \---data
+|   |       |   |   \---_examples
+|   |       |   |       +---cffi
+|   |       |   |       +---cython
+|   |       |   |       \---numba
+|   |       |   +---rec
+|   |       |   +---strings
+|   |       |   +---testing
+|   |       |   |   +---tests
+|   |       |   |   \---_private
+|   |       |   +---tests
+|   |       |   +---typing
+|   |       |   |   \---tests
+|   |       |   |       \---data
+|   |       |   |           +---fail
+|   |       |   |           +---misc
+|   |       |   |           +---pass
+|   |       |   |           \---reveal
+|   |       |   +---_core
+|   |       |   |   +---include
+|   |       |   |   |   \---numpy
+|   |       |   |   |       \---random
+|   |       |   |   +---lib
+|   |       |   |   |   \---pkgconfig
+|   |       |   |   \---tests
+|   |       |   |       +---data
+|   |       |   |       \---examples
+|   |       |   |           +---cython
+|   |       |   |           \---limited_api
+|   |       |   +---_pyinstaller
+|   |       |   |   \---tests
+|   |       |   +---_typing
+|   |       |   \---_utils
+|   |       +---numpy-2.5.3.dist-info
+|   |       |   \---licenses
+|   |       |       \---numpy
+|   |       |           +---fft
+|   |       |           |   \---pocketfft
+|   |       |           +---linalg
+|   |       |           |   \---lapack_lite
+|   |       |           +---ma
+|   |       |           +---random
+|   |       |           |   \---src
+|   |       |           |       +---distributions
+|   |       |           |       +---mt19937
+|   |       |           |       +---pcg64
+|   |       |           |       +---philox
+|   |       |           |       +---sfc64
+|   |       |           |       \---splitmix64
+|   |       |           \---_core
+|   |       |               +---include
+|   |       |               |   \---numpy
+|   |       |               |       \---libdivide
+|   |       |               \---src
+|   |       |                   +---common
+|   |       |                   |   \---pythoncapi-compat
+|   |       |                   +---highway
+|   |       |                   +---multiarray
+|   |       |                   +---npysort
+|   |       |                   |   \---x86-simd-sort
+|   |       |                   \---umath
+|   |       |                       \---svml
+|   |       +---numpy.libs
+|   |       +---packaging
+|   |       |   \---licenses
+|   |       +---packaging-26.3.dist-info
+|   |       |   \---licenses
+|   |       +---pgvector
+|   |       |   +---asyncpg
+|   |       |   +---django
+|   |       |   +---peewee
+|   |       |   +---pg8000
+|   |       |   +---psycopg
+|   |       |   +---psycopg2
+|   |       |   \---sqlalchemy
+|   |       +---pgvector-0.5.0.dist-info
+|   |       |   \---licenses
+|   |       +---psycopg
+|   |       |   +---crdb
+|   |       |   +---pq
+|   |       |   |   \---__pycache__
+|   |       |   +---types
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---psycopg-3.3.5.dist-info
+|   |       |   \---licenses
+|   |       +---psycopg_binary
+|   |       |   +---types
+|   |       |   \---__pycache__
+|   |       +---psycopg_binary-3.3.5.dist-info
+|   |       |   \---licenses
+|   |       +---psycopg_binary.libs
+|   |       +---pyasn1
+|   |       |   +---codec
+|   |       |   |   +---ber
+|   |       |   |   +---cer
+|   |       |   |   +---der
+|   |       |   |   \---native
+|   |       |   +---compat
+|   |       |   \---type
+|   |       +---pyasn1-0.6.4.dist-info
+|   |       |   \---licenses
+|   |       +---pyasn1_modules
+|   |       +---pyasn1_modules-0.4.2.dist-info
+|   |       |   \---licenses
+|   |       +---pycparser
+|   |       +---pycparser-3.0.dist-info
+|   |       |   \---licenses
+|   |       +---pydantic
+|   |       |   +---deprecated
+|   |       |   +---experimental
+|   |       |   +---plugin
+|   |       |   |   \---__pycache__
+|   |       |   +---v1
+|   |       |   +---_internal
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---pydantic-2.13.5.dist-info
+|   |       |   \---licenses
+|   |       +---pydantic_core
+|   |       |   \---__pycache__
+|   |       +---pydantic_core-2.46.5.dist-info
+|   |       |   +---licenses
+|   |       |   \---sboms
+|   |       +---pydantic_settings
+|   |       |   +---sources
+|   |       |   |   +---providers
+|   |       |   |   |   \---__pycache__
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---pydantic_settings-2.15.0.dist-info
+|   |       |   \---licenses
+|   |       +---pygments
+|   |       |   +---filters
+|   |       |   +---formatters
+|   |       |   +---lexers
+|   |       |   \---styles
+|   |       +---pygments-2.21.0.dist-info
+|   |       |   \---licenses
+|   |       +---pypdf
+|   |       |   +---actions
+|   |       |   +---annotations
+|   |       |   +---generic
+|   |       |   +---_codecs
+|   |       |   +---_crypt_providers
+|   |       |   \---_text_extraction
+|   |       |       \---_layout_mode
+|   |       +---pypdf-6.19.0.dist-info
+|   |       |   \---licenses
+|   |       +---python_docx-1.2.0.dist-info
+|   |       |   \---licenses
+|   |       +---python_dotenv-1.2.3.dist-info
+|   |       |   \---licenses
+|   |       +---pyyaml-6.0.3.dist-info
+|   |       |   \---licenses
+|   |       +---regex
+|   |       |   \---tests
+|   |       +---regex-2026.9.10.dist-info
+|   |       |   \---licenses
+|   |       +---requests
+|   |       +---requests-2.34.2.dist-info
+|   |       |   \---licenses
+|   |       +---rich
+|   |       |   \---_unicode_data
+|   |       +---rich-15.0.0.dist-info
+|   |       |   \---licenses
+|   |       +---safetensors
+|   |       +---safetensors-0.8.0.dist-info
+|   |       |   +---licenses
+|   |       |   \---sboms
+|   |       +---scikit_learn-1.9.1.dist-info
+|   |       |   \---licenses
+|   |       +---scipy
+|   |       |   +---cluster
+|   |       |   |   +---hierarchy
+|   |       |   |   |   \---tests
+|   |       |   |   \---vq
+|   |       |   |       \---tests
+|   |       |   +---constants
+|   |       |   |   \---tests
+|   |       |   +---datasets
+|   |       |   |   \---tests
+|   |       |   +---differentiate
+|   |       |   |   \---tests
+|   |       |   +---fft
+|   |       |   |   +---tests
+|   |       |   |   \---_duccfft
+|   |       |   |       \---tests
+|   |       |   +---fftpack
+|   |       |   |   \---tests
+|   |       |   +---integrate
+|   |       |   |   +---tests
+|   |       |   |   +---_ivp
+|   |       |   |   |   \---tests
+|   |       |   |   \---_rules
+|   |       |   +---interpolate
+|   |       |   |   \---tests
+|   |       |   |       \---data
+|   |       |   +---io
+|   |       |   |   +---arff
+|   |       |   |   |   \---tests
+|   |       |   |   |       \---data
+|   |       |   |   +---matlab
+|   |       |   |   |   \---tests
+|   |       |   |   |       \---data
+|   |       |   |   +---tests
+|   |       |   |   |   \---data
+|   |       |   |   +---_fast_matrix_market
+|   |       |   |   \---_harwell_boeing
+|   |       |   |       \---tests
+|   |       |   +---linalg
+|   |       |   |   \---tests
+|   |       |   |       +---data
+|   |       |   |       \---_cython_examples
+|   |       |   +---misc
+|   |       |   +---ndimage
+|   |       |   |   \---tests
+|   |       |   |       \---data
+|   |       |   +---odr
+|   |       |   |   \---tests
+|   |       |   +---optimize
+|   |       |   |   +---cython_optimize
+|   |       |   |   +---tests
+|   |       |   |   |   \---_cython_examples
+|   |       |   |   +---_highspy
+|   |       |   |   +---_lsq
+|   |       |   |   +---_shgo_lib
+|   |       |   |   +---_trlib
+|   |       |   |   \---_trustregion_constr
+|   |       |   |       \---tests
+|   |       |   +---signal
+|   |       |   |   +---tests
+|   |       |   |   |   \---data
+|   |       |   |   \---windows
+|   |       |   +---sparse
+|   |       |   |   +---csgraph
+|   |       |   |   |   \---tests
+|   |       |   |   +---linalg
+|   |       |   |   |   +---tests
+|   |       |   |   |   +---_dsolve
+|   |       |   |   |   |   \---tests
+|   |       |   |   |   +---_eigen
+|   |       |   |   |   |   +---arpack
+|   |       |   |   |   |   |   \---tests
+|   |       |   |   |   |   +---lobpcg
+|   |       |   |   |   |   |   \---tests
+|   |       |   |   |   |   \---tests
+|   |       |   |   |   \---_isolve
+|   |       |   |   |       \---tests
+|   |       |   |   \---tests
+|   |       |   +---spatial
+|   |       |   |   +---qhull_src
+|   |       |   |   +---tests
+|   |       |   |   |   \---data
+|   |       |   |   \---transform
+|   |       |   |       \---tests
+|   |       |   +---special
+|   |       |   |   +---tests
+|   |       |   |   |   +---data
+|   |       |   |   |   \---_cython_examples
+|   |       |   |   \---_precompute
+|   |       |   +---stats
+|   |       |   |   +---tests
+|   |       |   |   |   +---data
+|   |       |   |   |   |   +---levy_stable
+|   |       |   |   |   |   +---nist_anova
+|   |       |   |   |   |   \---nist_linregress
+|   |       |   |   |   \---test_generation
+|   |       |   |   +---_levy_stable
+|   |       |   |   +---_rcont
+|   |       |   |   \---_unuran
+|   |       |   +---_external
+|   |       |   |   +---array_api_compat
+|   |       |   |   |   +---common
+|   |       |   |   |   +---cupy
+|   |       |   |   |   +---dask
+|   |       |   |   |   |   \---array
+|   |       |   |   |   +---numpy
+|   |       |   |   |   \---torch
+|   |       |   |   +---array_api_extra
+|   |       |   |   |   \---_lib
+|   |       |   |   |       \---_utils
+|   |       |   |   +---cobyqa
+|   |       |   |   |   +---subsolvers
+|   |       |   |   |   \---utils
+|   |       |   |   +---packaging_version
+|   |       |   |   \---pyprima
+|   |       |   |       +---cobyla
+|   |       |   |       \---common
+|   |       |   \---_lib
+|   |       |       +---tests
+|   |       |       \---_uarray
+|   |       +---scipy-1.18.1.dist-info
+|   |       +---scipy.libs
+|   |       +---sentence_transformers
+|   |       |   +---backend
+|   |       |   +---base
+|   |       |   |   +---evaluation
+|   |       |   |   +---losses
+|   |       |   |   \---modules
+|   |       |   +---cross_encoder
+|   |       |   |   +---evaluation
+|   |       |   |   +---losses
+|   |       |   |   \---modules
+|   |       |   +---multi_vector_encoder
+|   |       |   |   +---evaluation
+|   |       |   |   +---losses
+|   |       |   |   +---modules
+|   |       |   |   \---scoring
+|   |       |   +---sentence_transformer
+|   |       |   |   +---datasets
+|   |       |   |   +---evaluation
+|   |       |   |   +---losses
+|   |       |   |   +---modules
+|   |       |   |   |   \---tokenizer
+|   |       |   |   \---readers
+|   |       |   +---sparse_encoder
+|   |       |   |   +---callbacks
+|   |       |   |   +---evaluation
+|   |       |   |   +---losses
+|   |       |   |   \---modules
+|   |       |   \---util
+|   |       +---sentence_transformers-6.1.0.dist-info
+|   |       |   \---licenses
+|   |       +---setuptools
+|   |       |   +---command
+|   |       |   +---compat
+|   |       |   +---config
+|   |       |   |   \---_validate_pyproject
+|   |       |   +---_distutils
+|   |       |   |   +---command
+|   |       |   |   +---compat
+|   |       |   |   \---compilers
+|   |       |   |       +---C
+|   |       |   |       \---platform
+|   |       |   \---_vendor
+|   |       |       +---autocommand
+|   |       |       +---autocommand-2.2.2.dist-info
+|   |       |       +---backports
+|   |       |       |   \---tarfile
+|   |       |       |       \---compat
+|   |       |       +---backports.tarfile-1.2.0.dist-info
+|   |       |       +---importlib_metadata
+|   |       |       |   \---compat
+|   |       |       +---importlib_metadata-8.7.1.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---jaraco
+|   |       |       |   +---context
+|   |       |       |   +---functools
+|   |       |       |   \---text
+|   |       |       +---jaraco.text-4.0.0.dist-info
+|   |       |       +---jaraco_context-6.1.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---jaraco_functools-4.4.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---more_itertools
+|   |       |       +---more_itertools-10.8.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---packaging
+|   |       |       |   \---licenses
+|   |       |       +---packaging-26.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---platformdirs
+|   |       |       +---platformdirs-4.4.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---tomli
+|   |       |       +---tomli-2.4.0.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---wheel
+|   |       |       |   \---_commands
+|   |       |       +---wheel-0.46.3.dist-info
+|   |       |       |   \---licenses
+|   |       |       +---zipp
+|   |       |       |   \---compat
+|   |       |       \---zipp-3.23.0.dist-info
+|   |       |           \---licenses
+|   |       +---setuptools-84.0.0.dist-info
+|   |       |   \---licenses
+|   |       +---shellingham
+|   |       |   \---posix
+|   |       +---shellingham-1.5.4.dist-info
+|   |       +---sklearn
+|   |       |   +---.libs
+|   |       |   +---callback
+|   |       |   |   \---tests
+|   |       |   +---cluster
+|   |       |   |   +---tests
+|   |       |   |   \---_hdbscan
+|   |       |   |       \---tests
+|   |       |   +---compose
+|   |       |   |   \---tests
+|   |       |   +---covariance
+|   |       |   |   \---tests
+|   |       |   +---cross_decomposition
+|   |       |   |   \---tests
+|   |       |   +---datasets
+|   |       |   |   +---data
+|   |       |   |   +---descr
+|   |       |   |   +---images
+|   |       |   |   \---tests
+|   |       |   |       \---data
+|   |       |   |           \---openml
+|   |       |   |               +---id_1
+|   |       |   |               +---id_1119
+|   |       |   |               +---id_1590
+|   |       |   |               +---id_2
+|   |       |   |               +---id_292
+|   |       |   |               +---id_3
+|   |       |   |               +---id_40589
+|   |       |   |               +---id_40675
+|   |       |   |               +---id_40945
+|   |       |   |               +---id_40966
+|   |       |   |               +---id_42074
+|   |       |   |               +---id_42585
+|   |       |   |               +---id_561
+|   |       |   |               +---id_61
+|   |       |   |               \---id_62
+|   |       |   +---decomposition
+|   |       |   |   \---tests
+|   |       |   +---ensemble
+|   |       |   |   +---tests
+|   |       |   |   \---_hist_gradient_boosting
+|   |       |   |       \---tests
+|   |       |   +---experimental
+|   |       |   |   \---tests
+|   |       |   +---externals
+|   |       |   |   +---array_api_compat
+|   |       |   |   |   +---common
+|   |       |   |   |   +---cupy
+|   |       |   |   |   +---dask
+|   |       |   |   |   |   \---array
+|   |       |   |   |   +---numpy
+|   |       |   |   |   \---torch
+|   |       |   |   +---array_api_extra
+|   |       |   |   |   +---testing
+|   |       |   |   |   +---_agnostic
+|   |       |   |   |   \---_lib
+|   |       |   |   +---_numpydoc
+|   |       |   |   +---_packaging
+|   |       |   |   \---_scipy
+|   |       |   |       \---sparse
+|   |       |   |           \---csgraph
+|   |       |   +---feature_extraction
+|   |       |   |   \---tests
+|   |       |   +---feature_selection
+|   |       |   |   \---tests
+|   |       |   +---frozen
+|   |       |   |   \---tests
+|   |       |   +---gaussian_process
+|   |       |   |   \---tests
+|   |       |   +---impute
+|   |       |   |   \---tests
+|   |       |   +---inspection
+|   |       |   |   +---tests
+|   |       |   |   \---_plot
+|   |       |   |       \---tests
+|   |       |   +---linear_model
+|   |       |   |   +---tests
+|   |       |   |   \---_glm
+|   |       |   |       \---tests
+|   |       |   +---manifold
+|   |       |   |   \---tests
+|   |       |   +---metrics
+|   |       |   |   +---cluster
+|   |       |   |   |   \---tests
+|   |       |   |   +---tests
+|   |       |   |   +---_pairwise_distances_reduction
+|   |       |   |   \---_plot
+|   |       |   |       \---tests
+|   |       |   +---mixture
+|   |       |   |   \---tests
+|   |       |   +---model_selection
+|   |       |   |   \---tests
+|   |       |   +---neighbors
+|   |       |   |   \---tests
+|   |       |   +---neural_network
+|   |       |   |   \---tests
+|   |       |   +---preprocessing
+|   |       |   |   \---tests
+|   |       |   +---semi_supervised
+|   |       |   |   \---tests
+|   |       |   +---svm
+|   |       |   |   +---src
+|   |       |   |   |   +---liblinear
+|   |       |   |   |   +---libsvm
+|   |       |   |   |   \---newrand
+|   |       |   |   \---tests
+|   |       |   +---tests
+|   |       |   +---tree
+|   |       |   |   \---tests
+|   |       |   +---utils
+|   |       |   |   +---src
+|   |       |   |   +---tests
+|   |       |   |   +---_repr_html
+|   |       |   |   |   \---tests
+|   |       |   |   \---_test_common
+|   |       |   +---_build_utils
+|   |       |   +---_loss
+|   |       |   |   \---tests
+|   |       |   \---__check_build
+|   |       +---sniffio
+|   |       |   +---_tests
+|   |       |   \---__pycache__
+|   |       +---sniffio-1.3.1.dist-info
+|   |       +---sqlalchemy
+|   |       |   +---connectors
+|   |       |   |   \---__pycache__
+|   |       |   +---cyextension
+|   |       |   |   \---__pycache__
+|   |       |   +---dialects
+|   |       |   |   +---mssql
+|   |       |   |   +---mysql
+|   |       |   |   +---oracle
+|   |       |   |   +---postgresql
+|   |       |   |   |   \---__pycache__
+|   |       |   |   +---sqlite
+|   |       |   |   \---__pycache__
+|   |       |   +---engine
+|   |       |   |   \---__pycache__
+|   |       |   +---event
+|   |       |   |   \---__pycache__
+|   |       |   +---ext
+|   |       |   |   +---asyncio
+|   |       |   |   +---declarative
+|   |       |   |   \---mypy
+|   |       |   +---future
+|   |       |   |   \---__pycache__
+|   |       |   +---orm
+|   |       |   |   \---__pycache__
+|   |       |   +---pool
+|   |       |   |   \---__pycache__
+|   |       |   +---sql
+|   |       |   |   \---__pycache__
+|   |       |   +---testing
+|   |       |   |   +---fixtures
+|   |       |   |   +---plugin
+|   |       |   |   \---suite
+|   |       |   +---util
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---sqlalchemy-2.0.54.dist-info
+|   |       |   \---licenses
+|   |       +---starlette
+|   |       |   +---middleware
+|   |       |   |   \---__pycache__
+|   |       |   \---__pycache__
+|   |       +---starlette-1.6.0.dist-info
+|   |       |   \---licenses
+|   |       +---sympy
+|   |       |   +---algebras
+|   |       |   |   \---tests
+|   |       |   +---assumptions
+|   |       |   |   +---handlers
+|   |       |   |   +---predicates
+|   |       |   |   +---relation
+|   |       |   |   \---tests
+|   |       |   +---benchmarks
+|   |       |   +---calculus
+|   |       |   |   \---tests
+|   |       |   +---categories
+|   |       |   |   \---tests
+|   |       |   +---codegen
+|   |       |   |   \---tests
+|   |       |   +---combinatorics
+|   |       |   |   \---tests
+|   |       |   +---concrete
+|   |       |   |   \---tests
+|   |       |   +---core
+|   |       |   |   +---benchmarks
+|   |       |   |   \---tests
+|   |       |   +---crypto
+|   |       |   |   \---tests
+|   |       |   +---diffgeom
+|   |       |   |   \---tests
+|   |       |   +---discrete
+|   |       |   |   \---tests
+|   |       |   +---external
+|   |       |   |   \---tests
+|   |       |   +---functions
+|   |       |   |   +---combinatorial
+|   |       |   |   |   \---tests
+|   |       |   |   +---elementary
+|   |       |   |   |   +---benchmarks
+|   |       |   |   |   \---tests
+|   |       |   |   \---special
+|   |       |   |       +---benchmarks
+|   |       |   |       \---tests
+|   |       |   +---geometry
+|   |       |   |   \---tests
+|   |       |   +---holonomic
+|   |       |   |   \---tests
+|   |       |   +---integrals
+|   |       |   |   +---benchmarks
+|   |       |   |   \---tests
+|   |       |   +---interactive
+|   |       |   |   \---tests
+|   |       |   +---liealgebras
+|   |       |   |   \---tests
+|   |       |   +---logic
+|   |       |   |   +---algorithms
+|   |       |   |   +---tests
+|   |       |   |   \---utilities
+|   |       |   +---matrices
+|   |       |   |   +---benchmarks
+|   |       |   |   +---expressions
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---multipledispatch
+|   |       |   |   \---tests
+|   |       |   +---ntheory
+|   |       |   |   \---tests
+|   |       |   +---parsing
+|   |       |   |   +---autolev
+|   |       |   |   |   +---test-examples
+|   |       |   |   |   |   \---pydy-example-repo
+|   |       |   |   |   \---_antlr
+|   |       |   |   +---c
+|   |       |   |   +---fortran
+|   |       |   |   +---latex
+|   |       |   |   |   +---lark
+|   |       |   |   |   |   \---grammar
+|   |       |   |   |   \---_antlr
+|   |       |   |   \---tests
+|   |       |   +---physics
+|   |       |   |   +---biomechanics
+|   |       |   |   |   \---tests
+|   |       |   |   +---continuum_mechanics
+|   |       |   |   |   \---tests
+|   |       |   |   +---control
+|   |       |   |   |   \---tests
+|   |       |   |   +---hep
+|   |       |   |   |   \---tests
+|   |       |   |   +---mechanics
+|   |       |   |   |   \---tests
+|   |       |   |   +---optics
+|   |       |   |   |   \---tests
+|   |       |   |   +---quantum
+|   |       |   |   |   \---tests
+|   |       |   |   +---tests
+|   |       |   |   +---units
+|   |       |   |   |   +---definitions
+|   |       |   |   |   +---systems
+|   |       |   |   |   \---tests
+|   |       |   |   \---vector
+|   |       |   |       \---tests
+|   |       |   +---plotting
+|   |       |   |   +---backends
+|   |       |   |   |   +---matplotlibbackend
+|   |       |   |   |   \---textbackend
+|   |       |   |   +---intervalmath
+|   |       |   |   |   \---tests
+|   |       |   |   +---pygletplot
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---polys
+|   |       |   |   +---agca
+|   |       |   |   |   \---tests
+|   |       |   |   +---benchmarks
+|   |       |   |   +---domains
+|   |       |   |   |   \---tests
+|   |       |   |   +---matrices
+|   |       |   |   |   \---tests
+|   |       |   |   +---numberfields
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---printing
+|   |       |   |   +---pretty
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---sandbox
+|   |       |   |   \---tests
+|   |       |   +---series
+|   |       |   |   +---benchmarks
+|   |       |   |   \---tests
+|   |       |   +---sets
+|   |       |   |   +---handlers
+|   |       |   |   \---tests
+|   |       |   +---simplify
+|   |       |   |   \---tests
+|   |       |   +---solvers
+|   |       |   |   +---benchmarks
+|   |       |   |   +---diophantine
+|   |       |   |   |   \---tests
+|   |       |   |   +---ode
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---stats
+|   |       |   |   +---sampling
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---strategies
+|   |       |   |   +---branch
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---tensor
+|   |       |   |   +---array
+|   |       |   |   |   +---expressions
+|   |       |   |   |   |   \---tests
+|   |       |   |   |   \---tests
+|   |       |   |   \---tests
+|   |       |   +---testing
+|   |       |   |   \---tests
+|   |       |   +---unify
+|   |       |   |   \---tests
+|   |       |   +---utilities
+|   |       |   |   +---mathml
+|   |       |   |   |   \---data
+|   |       |   |   +---tests
+|   |       |   |   \---_compilation
+|   |       |   |       \---tests
+|   |       |   \---vector
+|   |       |       \---tests
+|   |       +---sympy-1.14.0.dist-info
+|   |       |   \---licenses
+|   |       +---tenacity
+|   |       |   \---asyncio
+|   |       +---tenacity-9.1.4.dist-info
+|   |       |   \---licenses
+|   |       +---threadpoolctl-3.7.0.dist-info
+|   |       |   \---licenses
+|   |       +---tokenizers
+|   |       |   +---decoders
+|   |       |   +---implementations
+|   |       |   +---models
+|   |       |   +---normalizers
+|   |       |   +---pre_tokenizers
+|   |       |   +---processors
+|   |       |   +---tools
+|   |       |   \---trainers
+|   |       +---tokenizers-0.23.2.dist-info
+|   |       |   \---sboms
+|   |       +---torch
+|   |       |   +---accelerator
+|   |       |   +---amp
+|   |       |   +---ao
+|   |       |   |   +---nn
+|   |       |   |   |   +---intrinsic
+|   |       |   |   |   |   +---modules
+|   |       |   |   |   |   +---qat
+|   |       |   |   |   |   |   \---modules
+|   |       |   |   |   |   \---quantized
+|   |       |   |   |   |       +---dynamic
+|   |       |   |   |   |       |   \---modules
+|   |       |   |   |   |       \---modules
+|   |       |   |   |   +---qat
+|   |       |   |   |   |   +---dynamic
+|   |       |   |   |   |   |   \---modules
+|   |       |   |   |   |   \---modules
+|   |       |   |   |   +---quantizable
+|   |       |   |   |   |   \---modules
+|   |       |   |   |   +---quantized
+|   |       |   |   |   |   +---dynamic
+|   |       |   |   |   |   |   \---modules
+|   |       |   |   |   |   +---modules
+|   |       |   |   |   |   \---reference
+|   |       |   |   |   |       \---modules
+|   |       |   |   |   \---sparse
+|   |       |   |   |       \---quantized
+|   |       |   |   |           \---dynamic
+|   |       |   |   +---ns
+|   |       |   |   |   \---fx
+|   |       |   |   +---pruning
+|   |       |   |   |   +---scheduler
+|   |       |   |   |   +---sparsifier
+|   |       |   |   |   \---_experimental
+|   |       |   |   |       +---activation_sparsifier
+|   |       |   |   |       +---data_scheduler
+|   |       |   |   |       +---data_sparsifier
+|   |       |   |   |       |   \---lightning
+|   |       |   |   |       |       \---callbacks
+|   |       |   |   |       \---pruner
+|   |       |   |   \---quantization
+|   |       |   |       +---backend_config
+|   |       |   |       \---fx
+|   |       |   |           \---_model_report
+|   |       |   +---autograd
+|   |       |   |   \---_functions
+|   |       |   +---backends
+|   |       |   |   +---cpu
+|   |       |   |   +---cuda
+|   |       |   |   +---cudnn
+|   |       |   |   +---cusparselt
+|   |       |   |   +---kleidiai
+|   |       |   |   +---mha
+|   |       |   |   +---miopen
+|   |       |   |   +---mkl
+|   |       |   |   +---mkldnn
+|   |       |   |   +---mps
+|   |       |   |   +---nnpack
+|   |       |   |   +---openmp
+|   |       |   |   +---opt_einsum
+|   |       |   |   +---python_native
+|   |       |   |   +---quantized
+|   |       |   |   +---xeon
+|   |       |   |   +---xnnpack
+|   |       |   |   +---_coreml
+|   |       |   |   \---_nnapi
+|   |       |   +---bin
+|   |       |   +---compiler
+|   |       |   +---contrib
+|   |       |   +---cpu
+|   |       |   |   \---amp
+|   |       |   +---csrc
+|   |       |   |   \---inductor
+|   |       |   |       \---aoti_runtime
+|   |       |   +---cuda
+|   |       |   |   \---amp
+|   |       |   +---distributed
+|   |       |   |   +---algorithms
+|   |       |   |   |   +---ddp_comm_hooks
+|   |       |   |   |   +---model_averaging
+|   |       |   |   |   +---_checkpoint
+|   |       |   |   |   +---_comm_hooks
+|   |       |   |   |   +---_optimizer_overlap
+|   |       |   |   |   \---_quantization
+|   |       |   |   +---autograd
+|   |       |   |   +---checkpoint
+|   |       |   |   |   \---_experimental
+|   |       |   |   +---debug
+|   |       |   |   +---elastic
+|   |       |   |   |   +---agent
+|   |       |   |   |   |   \---server
+|   |       |   |   |   +---events
+|   |       |   |   |   +---metrics
+|   |       |   |   |   +---multiprocessing
+|   |       |   |   |   |   +---errors
+|   |       |   |   |   |   \---subprocess_handler
+|   |       |   |   |   +---rendezvous
+|   |       |   |   |   +---timer
+|   |       |   |   |   \---utils
+|   |       |   |   |       \---data
+|   |       |   |   +---flight_recorder
+|   |       |   |   |   \---components
+|   |       |   |   +---fsdp
+|   |       |   |   |   \---_fully_shard
+|   |       |   |   +---launcher
+|   |       |   |   +---nn
+|   |       |   |   |   +---api
+|   |       |   |   |   \---jit
+|   |       |   |   |       \---templates
+|   |       |   |   +---optim
+|   |       |   |   +---pipelining
+|   |       |   |   +---rpc
+|   |       |   |   |   \---_testing
+|   |       |   |   +---tensor
+|   |       |   |   |   +---debug
+|   |       |   |   |   +---experimental
+|   |       |   |   |   |   \---_context_parallel
+|   |       |   |   |   +---parallel
+|   |       |   |   |   \---_ops
+|   |       |   |   +---_composable
+|   |       |   |   |   \---fsdp
+|   |       |   |   +---_local_tensor
+|   |       |   |   +---_ops
+|   |       |   |   +---_pycute
+|   |       |   |   +---_shard
+|   |       |   |   |   +---checkpoint
+|   |       |   |   |   +---sharded_optim
+|   |       |   |   |   +---sharded_tensor
+|   |       |   |   |   |   \---_ops
+|   |       |   |   |   +---sharding_plan
+|   |       |   |   |   \---sharding_spec
+|   |       |   |   |       \---chunk_sharding_spec_ops
+|   |       |   |   +---_sharded_tensor
+|   |       |   |   +---_sharding_spec
+|   |       |   |   +---_symmetric_memory
+|   |       |   |   +---_tensor
+|   |       |   |   \---_tools
+|   |       |   +---distributions
+|   |       |   +---export
+|   |       |   |   +---experimental
+|   |       |   |   +---passes
+|   |       |   |   \---pt2_archive
+|   |       |   +---fft
+|   |       |   +---func
+|   |       |   +---futures
+|   |       |   +---fx
+|   |       |   |   +---experimental
+|   |       |   |   |   +---migrate_gradual_types
+|   |       |   |   |   \---unification
+|   |       |   |   |       \---multipledispatch
+|   |       |   |   \---passes
+|   |       |   |       +---backends
+|   |       |   |       +---dialect
+|   |       |   |       |   \---common
+|   |       |   |       +---infra
+|   |       |   |       +---tests
+|   |       |   |       \---utils
+|   |       |   +---include
+|   |       |   |   +---ATen
+|   |       |   |   |   +---accelerator
+|   |       |   |   |   +---core
+|   |       |   |   |   |   +---boxing
+|   |       |   |   |   |   |   \---impl
+|   |       |   |   |   |   +---dispatch
+|   |       |   |   |   |   \---op_registration
+|   |       |   |   |   +---cpu
+|   |       |   |   |   |   \---vec
+|   |       |   |   |   |       +---sve
+|   |       |   |   |   |       +---vec128
+|   |       |   |   |   |       +---vec256
+|   |       |   |   |   |       |   +---vsx
+|   |       |   |   |   |       |   \---zarch
+|   |       |   |   |   |       \---vec512
+|   |       |   |   |   +---cuda
+|   |       |   |   |   |   +---detail
+|   |       |   |   |   |   \---tunable
+|   |       |   |   |   +---cudnn
+|   |       |   |   |   +---detail
+|   |       |   |   |   +---functorch
+|   |       |   |   |   +---hip
+|   |       |   |   |   |   \---impl
+|   |       |   |   |   +---metal
+|   |       |   |   |   +---miopen
+|   |       |   |   |   +---mps
+|   |       |   |   |   +---native
+|   |       |   |   |   |   +---ao_sparse
+|   |       |   |   |   |   |   \---quantized
+|   |       |   |   |   |   |       \---cpu
+|   |       |   |   |   |   +---cpu
+|   |       |   |   |   |   +---cuda
+|   |       |   |   |   |   +---hip
+|   |       |   |   |   |   |   \---bgemm_kernels
+|   |       |   |   |   |   +---kleidiai
+|   |       |   |   |   |   +---mps
+|   |       |   |   |   |   |   +---kernels
+|   |       |   |   |   |   |   \---operations
+|   |       |   |   |   |   +---nested
+|   |       |   |   |   |   +---quantized
+|   |       |   |   |   |   |   +---cpu
+|   |       |   |   |   |   |   \---cudnn
+|   |       |   |   |   |   +---transformers
+|   |       |   |   |   |   |   +---cuda
+|   |       |   |   |   |   |   |   +---flash_attn
+|   |       |   |   |   |   |   |   \---mem_eff_attention
+|   |       |   |   |   |   |   |       +---epilogue
+|   |       |   |   |   |   |   |       +---gemm
+|   |       |   |   |   |   |   |       +---iterators
+|   |       |   |   |   |   |   |       +---kernels
+|   |       |   |   |   |   |   |       \---transform
+|   |       |   |   |   |   |   +---hip
+|   |       |   |   |   |   |   |   \---flash_attn
+|   |       |   |   |   |   |   |       \---ck
+|   |       |   |   |   |   |   \---xpu
+|   |       |   |   |   |   \---utils
+|   |       |   |   |   +---ops
+|   |       |   |   |   +---quantized
+|   |       |   |   |   \---xpu
+|   |       |   |   |       \---detail
+|   |       |   |   +---c10
+|   |       |   |   |   +---core
+|   |       |   |   |   |   \---impl
+|   |       |   |   |   +---cuda
+|   |       |   |   |   |   \---impl
+|   |       |   |   |   +---macros
+|   |       |   |   |   +---metal
+|   |       |   |   |   +---mobile
+|   |       |   |   |   +---test
+|   |       |   |   |   |   \---util
+|   |       |   |   |   +---util
+|   |       |   |   |   \---xpu
+|   |       |   |   |       +---impl
+|   |       |   |   |       \---test
+|   |       |   |   |           \---impl
+|   |       |   |   +---caffe2
+|   |       |   |   |   +---core
+|   |       |   |   |   +---perfkernels
+|   |       |   |   |   +---serialize
+|   |       |   |   |   \---utils
+|   |       |   |   |       \---threadpool
+|   |       |   |   +---fmt
+|   |       |   |   |   \---src
+|   |       |   |   +---fp16
+|   |       |   |   +---google
+|   |       |   |   |   \---protobuf
+|   |       |   |   |       +---compiler
+|   |       |   |   |       |   +---cpp
+|   |       |   |   |       |   +---csharp
+|   |       |   |   |       |   +---java
+|   |       |   |   |       |   +---objectivec
+|   |       |   |   |       |   +---php
+|   |       |   |   |       |   +---python
+|   |       |   |   |       |   \---ruby
+|   |       |   |   |       +---io
+|   |       |   |   |       +---stubs
+|   |       |   |   |       \---util
+|   |       |   |   +---kineto
+|   |       |   |   +---legacy
+|   |       |   |   +---mimalloc-2.4
+|   |       |   |   +---oneapi
+|   |       |   |   |   \---dnnl
+|   |       |   |   +---pybind11
+|   |       |   |   |   +---conduit
+|   |       |   |   |   +---detail
+|   |       |   |   |   +---eigen
+|   |       |   |   |   \---stl
+|   |       |   |   \---torch
+|   |       |   |       +---csrc
+|   |       |   |       |   +---acc
+|   |       |   |       |   +---api
+|   |       |   |       |   |   \---include
+|   |       |   |       |   |       \---torch
+|   |       |   |       |   |           +---data
+|   |       |   |       |   |           |   +---dataloader
+|   |       |   |       |   |           |   +---datasets
+|   |       |   |       |   |           |   +---detail
+|   |       |   |       |   |           |   +---samplers
+|   |       |   |       |   |           |   \---transforms
+|   |       |   |       |   |           +---detail
+|   |       |   |       |   |           +---nativert
+|   |       |   |       |   |           +---nn
+|   |       |   |       |   |           |   +---functional
+|   |       |   |       |   |           |   +---modules
+|   |       |   |       |   |           |   |   \---container
+|   |       |   |       |   |           |   +---options
+|   |       |   |       |   |           |   +---parallel
+|   |       |   |       |   |           |   \---utils
+|   |       |   |       |   |           +---optim
+|   |       |   |       |   |           |   \---schedulers
+|   |       |   |       |   |           +---python
+|   |       |   |       |   |           \---serialize
+|   |       |   |       |   +---autograd
+|   |       |   |       |   |   +---functions
+|   |       |   |       |   |   +---generated
+|   |       |   |       |   |   \---utils
+|   |       |   |       |   +---cpu
+|   |       |   |       |   +---cuda
+|   |       |   |       |   +---distributed
+|   |       |   |       |   |   +---autograd
+|   |       |   |       |   |   |   +---context
+|   |       |   |       |   |   |   +---engine
+|   |       |   |       |   |   |   +---functions
+|   |       |   |       |   |   |   \---rpc_messages
+|   |       |   |       |   |   +---c10d
+|   |       |   |       |   |   |   +---control_plane
+|   |       |   |       |   |   |   +---cuda
+|   |       |   |       |   |   |   +---gloo
+|   |       |   |       |   |   |   +---hooks
+|   |       |   |       |   |   |   +---lazy
+|   |       |   |       |   |   |   +---nccl
+|   |       |   |       |   |   |   +---nccl2
+|   |       |   |       |   |   |   +---py
+|   |       |   |       |   |   |   +---quantization
+|   |       |   |       |   |   |   +---store
+|   |       |   |       |   |   |   +---symm_mem
+|   |       |   |       |   |   |   \---ucc
+|   |       |   |       |   |   \---rpc
+|   |       |   |       |   |       +---metrics
+|   |       |   |       |   |       +---profiler
+|   |       |   |       |   |       \---testing
+|   |       |   |       |   +---dynamo
+|   |       |   |       |   +---export
+|   |       |   |       |   +---functionalization
+|   |       |   |       |   +---functorch
+|   |       |   |       |   +---fx
+|   |       |   |       |   +---inductor
+|   |       |   |       |   |   +---aoti_eager
+|   |       |   |       |   |   +---aoti_include
+|   |       |   |       |   |   +---aoti_package
+|   |       |   |       |   |   +---aoti_runner
+|   |       |   |       |   |   +---aoti_runtime
+|   |       |   |       |   |   +---aoti_torch
+|   |       |   |       |   |   |   +---c
+|   |       |   |       |   |   |   \---generated
+|   |       |   |       |   |   +---cpp_wrapper
+|   |       |   |       |   |   |   \---device_internal
+|   |       |   |       |   |   \---static_launcher
+|   |       |   |       |   +---instruction_counter
+|   |       |   |       |   +---jit
+|   |       |   |       |   |   +---api
+|   |       |   |       |   |   +---backends
+|   |       |   |       |   |   |   +---coreml
+|   |       |   |       |   |   |   |   +---cpp
+|   |       |   |       |   |   |   |   \---objc
+|   |       |   |       |   |   |   \---xnnpack
+|   |       |   |       |   |   |       +---compiler
+|   |       |   |       |   |   |       +---executor
+|   |       |   |       |   |   |       \---serialization
+|   |       |   |       |   |   +---codegen
+|   |       |   |       |   |   |   +---cuda
+|   |       |   |       |   |   |   +---fuser
+|   |       |   |       |   |   |   |   +---cpu
+|   |       |   |       |   |   |   |   \---cuda
+|   |       |   |       |   |   |   \---onednn
+|   |       |   |       |   |   +---cuda
+|   |       |   |       |   |   +---frontend
+|   |       |   |       |   |   +---ir
+|   |       |   |       |   |   +---mobile
+|   |       |   |       |   |   |   +---compatibility
+|   |       |   |       |   |   |   +---model_tracer
+|   |       |   |       |   |   |   +---nnc
+|   |       |   |       |   |   |   \---train
+|   |       |   |       |   |   |       \---optim
+|   |       |   |       |   |   +---operator_upgraders
+|   |       |   |       |   |   +---passes
+|   |       |   |       |   |   |   +---dbr_quantization
+|   |       |   |       |   |   |   +---onnx
+|   |       |   |       |   |   |   |   \---pattern_conversion
+|   |       |   |       |   |   |   +---quantization
+|   |       |   |       |   |   |   \---utils
+|   |       |   |       |   |   +---python
+|   |       |   |       |   |   +---runtime
+|   |       |   |       |   |   |   +---interpreter
+|   |       |   |       |   |   |   \---static
+|   |       |   |       |   |   +---serialization
+|   |       |   |       |   |   +---tensorexpr
+|   |       |   |       |   |   |   \---operators
+|   |       |   |       |   |   \---testing
+|   |       |   |       |   +---lazy
+|   |       |   |       |   |   +---backend
+|   |       |   |       |   |   +---core
+|   |       |   |       |   |   |   +---internal_ops
+|   |       |   |       |   |   |   \---ops
+|   |       |   |       |   |   +---generated
+|   |       |   |       |   |   +---python
+|   |       |   |       |   |   \---ts_backend
+|   |       |   |       |   |       \---ops
+|   |       |   |       |   +---monitor
+|   |       |   |       |   +---mps
+|   |       |   |       |   +---mtia
+|   |       |   |       |   |   \---profiler
+|   |       |   |       |   +---multiprocessing
+|   |       |   |       |   +---onnx
+|   |       |   |       |   +---profiler
+|   |       |   |       |   |   +---cupti
+|   |       |   |       |   |   +---orchestration
+|   |       |   |       |   |   +---python
+|   |       |   |       |   |   +---standalone
+|   |       |   |       |   |   +---stubs
+|   |       |   |       |   |   \---unwind
+|   |       |   |       |   +---stable
+|   |       |   |       |   |   \---c
+|   |       |   |       |   +---tensor
+|   |       |   |       |   +---utils
+|   |       |   |       |   \---xpu
+|   |       |   |       \---headeronly
+|   |       |   |           +---core
+|   |       |   |           +---cpu
+|   |       |   |           |   \---vec
+|   |       |   |           +---cuda
+|   |       |   |           |   \---detail
+|   |       |   |           +---macros
+|   |       |   |           \---util
+|   |       |   +---jit
+|   |       |   |   +---mobile
+|   |       |   |   \---_passes
+|   |       |   +---lib
+|   |       |   |   +---libshm
+|   |       |   |   +---libshm_windows
+|   |       |   |   \---mimalloc-2.4
+|   |       |   +---linalg
+|   |       |   +---masked
+|   |       |   |   \---maskedtensor
+|   |       |   +---monitor
+|   |       |   +---mps
+|   |       |   +---mtia
+|   |       |   +---multiprocessing
+|   |       |   +---nativert
+|   |       |   |   \---backends
+|   |       |   +---nested
+|   |       |   |   \---_internal
+|   |       |   +---nn
+|   |       |   |   +---attention
+|   |       |   |   |   \---experimental
+|   |       |   |   +---backends
+|   |       |   |   +---intrinsic
+|   |       |   |   |   +---modules
+|   |       |   |   |   +---qat
+|   |       |   |   |   |   \---modules
+|   |       |   |   |   \---quantized
+|   |       |   |   |       +---dynamic
+|   |       |   |   |       |   \---modules
+|   |       |   |   |       \---modules
+|   |       |   |   +---modules
+|   |       |   |   +---parallel
+|   |       |   |   +---qat
+|   |       |   |   |   +---dynamic
+|   |       |   |   |   |   \---modules
+|   |       |   |   |   \---modules
+|   |       |   |   +---quantizable
+|   |       |   |   |   \---modules
+|   |       |   |   +---quantized
+|   |       |   |   |   +---dynamic
+|   |       |   |   |   |   \---modules
+|   |       |   |   |   +---modules
+|   |       |   |   |   \---_reference
+|   |       |   |   |       \---modules
+|   |       |   |   \---utils
+|   |       |   |       \---_expanded_weights
+|   |       |   +---numa
+|   |       |   +---onnx
+|   |       |   |   +---ops
+|   |       |   |   \---_internal
+|   |       |   |       +---exporter
+|   |       |   |       |   \---_torchlib
+|   |       |   |       |       \---ops
+|   |       |   |       +---fx
+|   |       |   |       |   \---passes
+|   |       |   |       \---torchscript_exporter
+|   |       |   +---optim
+|   |       |   |   \---_multi_tensor
+|   |       |   +---package
+|   |       |   |   \---analyze
+|   |       |   +---profiler
+|   |       |   |   \---_cupti
+|   |       |   |       \---observers
+|   |       |   +---quantization
+|   |       |   |   \---fx
+|   |       |   +---share
+|   |       |   |   \---cmake
+|   |       |   |       +---ATen
+|   |       |   |       +---Caffe2
+|   |       |   |       |   +---Modules_CUDA_fix
+|   |       |   |       |   |   \---upstream
+|   |       |   |       |   |       \---FindCUDA
+|   |       |   |       |   \---public
+|   |       |   |       \---Torch
+|   |       |   +---signal
+|   |       |   |   \---windows
+|   |       |   +---sparse
+|   |       |   +---special
+|   |       |   +---testing
+|   |       |   |   \---_internal
+|   |       |   |       +---codegen
+|   |       |   |       +---data
+|   |       |   |       +---distributed
+|   |       |   |       |   +---nn
+|   |       |   |       |   |   \---api
+|   |       |   |       |   +---rpc
+|   |       |   |       |   |   +---examples
+|   |       |   |       |   |   \---jit
+|   |       |   |       |   +---_shard
+|   |       |   |       |   |   \---sharded_tensor
+|   |       |   |       |   \---_tensor
+|   |       |   |       +---generated
+|   |       |   |       +---opinfo
+|   |       |   |       |   \---definitions
+|   |       |   |       +---optests
+|   |       |   |       \---test_module
+|   |       |   +---utils
+|   |       |   |   +---backcompat
+|   |       |   |   +---benchmark
+|   |       |   |   |   +---examples
+|   |       |   |   |   +---op_fuzzers
+|   |       |   |   |   \---utils
+|   |       |   |   |       \---valgrind_wrapper
+|   |       |   |   +---data
+|   |       |   |   |   +---datapipes
+|   |       |   |   |   |   +---dataframe
+|   |       |   |   |   |   +---iter
+|   |       |   |   |   |   +---map
+|   |       |   |   |   |   \---utils
+|   |       |   |   |   \---_utils
+|   |       |   |   +---hipify
+|   |       |   |   +---jit
+|   |       |   |   +---model_dump
+|   |       |   |   +---serialization
+|   |       |   |   +---tensorboard
+|   |       |   |   +---viz
+|   |       |   |   +---_debug_mode
+|   |       |   |   +---_strobelight
+|   |       |   |   \---_sympy
+|   |       |   +---xpu
+|   |       |   +---_awaits
+|   |       |   +---_C
+|   |       |   |   +---_acc
+|   |       |   |   +---_dynamo
+|   |       |   |   \---_export
+|   |       |   +---_custom_op
+|   |       |   +---_C_flatbuffer
+|   |       |   +---_decomp
+|   |       |   +---_dispatch
+|   |       |   +---_dynamo
+|   |       |   |   +---backends
+|   |       |   |   +---polyfills
+|   |       |   |   +---repro
+|   |       |   |   \---variables
+|   |       |   +---_export
+|   |       |   |   +---db
+|   |       |   |   |   \---examples
+|   |       |   |   +---passes
+|   |       |   |   +---pass_infra
+|   |       |   |   \---serde
+|   |       |   +---_functorch
+|   |       |   |   +---_activation_checkpointing
+|   |       |   |   +---_activation_offloading
+|   |       |   |   \---_aot_autograd
+|   |       |   +---_higher_order_ops
+|   |       |   |   \---passes
+|   |       |   +---_inductor
+|   |       |   |   +---analysis
+|   |       |   |   +---autoheuristic
+|   |       |   |   |   \---artifacts
+|   |       |   |   +---codegen
+|   |       |   |   |   +---aoti_runtime
+|   |       |   |   |   +---cuda
+|   |       |   |   |   +---cutedsl
+|   |       |   |   |   +---cutlass
+|   |       |   |   |   |   \---lib_extensions
+|   |       |   |   |   |       \---cutlass_mock_imports
+|   |       |   |   |   |           +---cuda
+|   |       |   |   |   |           +---pydot
+|   |       |   |   |   |           \---scipy
+|   |       |   |   |   +---mtia
+|   |       |   |   |   +---nv_universal_gemm
+|   |       |   |   |   +---rocm
+|   |       |   |   |   \---xpu
+|   |       |   |   +---compile_worker
+|   |       |   |   +---fx_passes
+|   |       |   |   |   +---auto_chunker
+|   |       |   |   |   \---serialized_patterns
+|   |       |   |   +---heuristics
+|   |       |   |   |   +---template
+|   |       |   |   |   \---triton_codegen
+|   |       |   |   +---kernel
+|   |       |   |   |   +---flex
+|   |       |   |   |   |   \---templates
+|   |       |   |   |   +---flex_gemm
+|   |       |   |   |   +---templates
+|   |       |   |   |   \---vendored_templates
+|   |       |   |   |       \---cutedsl
+|   |       |   |   |           +---kernels
+|   |       |   |   |           \---wrappers
+|   |       |   |   +---lookup_table
+|   |       |   |   +---package
+|   |       |   |   +---runtime
+|   |       |   |   |   \---caching
+|   |       |   |   \---template_heuristics
+|   |       |   +---_lazy
+|   |       |   +---_library
+|   |       |   +---_logging
+|   |       |   +---_native
+|   |       |   |   +---ops
+|   |       |   |   |   +---bmm_outer_product
+|   |       |   |   |   +---foreach_mm
+|   |       |   |   |   +---norm
+|   |       |   |   |   +---polar
+|   |       |   |   |   +---scatter_add
+|   |       |   |   |   +---sum
+|   |       |   |   |   \---topk
+|   |       |   |   \---triton
+|   |       |   +---_numpy
+|   |       |   |   \---testing
+|   |       |   +---_prims
+|   |       |   +---_prims_common
+|   |       |   +---_refs
+|   |       |   |   +---linalg
+|   |       |   |   +---nn
+|   |       |   |   |   \---functional
+|   |       |   |   \---special
+|   |       |   +---_strobelight
+|   |       |   +---_subclasses
+|   |       |   |   \---complex_tensor
+|   |       |   |       \---_ops
+|   |       |   \---_vendor
+|   |       |       +---packaging
+|   |       |       \---quack
+|   |       |           +---bench
+|   |       |           \---cache
+|   |       +---torch-2.14.0.dist-info
+|   |       |   \---licenses
+|   |       |       \---third_party
+|   |       |           +---aiter
+|   |       |           |   \---3rdparty
+|   |       |           |       \---composable_kernel
+|   |       |           |           \---docs
+|   |       |           +---benchmark
+|   |       |           +---composable_kernel
+|   |       |           |   \---docs
+|   |       |           +---cpp-httplib
+|   |       |           +---cpuinfo
+|   |       |           |   \---deps
+|   |       |           |       \---clog
+|   |       |           +---cudnn_frontend
+|   |       |           +---cutlass
+|   |       |           |   \---python
+|   |       |           +---fbgemm
+|   |       |           |   +---external
+|   |       |           |   |   +---composable_kernel
+|   |       |           |   |   |   \---docs
+|   |       |           |   |   +---cpuinfo
+|   |       |           |   |   |   \---deps
+|   |       |           |   |   |       \---clog
+|   |       |           |   |   +---cutlass
+|   |       |           |   |   |   \---python
+|   |       |           |   |   +---googletest
+|   |       |           |   |   \---hipify_torch
+|   |       |           |   \---fbgemm_gpu
+|   |       |           |       +---docs
+|   |       |           |       |   \---src
+|   |       |           |       |       \---general
+|   |       |           |       +---experimental
+|   |       |           |       |   \---hstu
+|   |       |           |       +---src
+|   |       |           |       |   \---quantize_ops
+|   |       |           |       |       \---mx
+|   |       |           |       \---test
+|   |       |           |           \---quantize
+|   |       |           |               \---mx
+|   |       |           +---flash-attention
+|   |       |           |   +---csrc
+|   |       |           |   |   +---composable_kernel
+|   |       |           |   |   |   \---docs
+|   |       |           |   |   \---cutlass
+|   |       |           |   |       \---python
+|   |       |           |   +---flash_attn
+|   |       |           |   |   \---cute
+|   |       |           |   \---third_party
+|   |       |           |       \---aiter
+|   |       |           |           \---3rdparty
+|   |       |           |               \---composable_kernel
+|   |       |           |                   \---docs
+|   |       |           +---flatbuffers
+|   |       |           |   +---dart
+|   |       |           |   \---swift
+|   |       |           +---fmt
+|   |       |           +---FP16
+|   |       |           +---FXdiv
+|   |       |           +---gemmlowp
+|   |       |           |   \---gemmlowp
+|   |       |           +---gloo
+|   |       |           +---googletest
+|   |       |           +---ideep
+|   |       |           |   \---mkl-dnn
+|   |       |           |       \---third_party
+|   |       |           |           +---gtest
+|   |       |           |           \---opencl
+|   |       |           +---kineto
+|   |       |           |   \---libkineto
+|   |       |           |       \---third_party
+|   |       |           |           +---dynolog_headers
+|   |       |           |           +---fmt
+|   |       |           |           \---googletest
+|   |       |           +---llvm-openmp
+|   |       |           +---mimalloc
+|   |       |           +---miniz-3.0.2
+|   |       |           +---mslk
+|   |       |           |   +---external
+|   |       |           |   |   +---composable_kernel
+|   |       |           |   |   |   \---docs
+|   |       |           |   |   +---cutlass
+|   |       |           |   |   |   \---python
+|   |       |           |   |   +---googletest
+|   |       |           |   |   \---hipify_torch
+|   |       |           |   \---mslk
+|   |       |           |       \---attention
+|   |       |           |           \---flash_attn
+|   |       |           +---NNPACK
+|   |       |           +---NVTX
+|   |       |           |   +---docs
+|   |       |           |   +---python
+|   |       |           |   +---rust
+|   |       |           |   \---tools
+|   |       |           |       \---docs
+|   |       |           |           \---github-markdown-css
+|   |       |           +---onnx
+|   |       |           |   \---third_party
+|   |       |           |       \---pybind11
+|   |       |           +---perfetto
+|   |       |           +---protobuf
+|   |       |           |   \---third_party
+|   |       |           |       +---benchmark
+|   |       |           |       +---googletest
+|   |       |           |       |   +---googlemock
+|   |       |           |       |   |   \---scripts
+|   |       |           |       |   |       \---generator
+|   |       |           |       |   \---googletest
+|   |       |           |       \---utf8_range
+|   |       |           +---psimd
+|   |       |           +---pthreadpool
+|   |       |           +---pybind11
+|   |       |           +---python-peachpy
+|   |       |           +---sleef
+|   |       |           +---tensorpipe
+|   |       |           |   \---third_party
+|   |       |           |       +---googletest
+|   |       |           |       |   +---googlemock
+|   |       |           |       |   |   \---scripts
+|   |       |           |       |   |       \---generator
+|   |       |           |       |   \---googletest
+|   |       |           |       +---libnop
+|   |       |           |       +---libuv
+|   |       |           |       \---pybind11
+|   |       |           |           \---tools
+|   |       |           |               \---clang
+|   |       |           +---VulkanMemoryAllocator
+|   |       |           \---XNNPACK
+|   |       +---torchgen
+|   |       |   +---aoti
+|   |       |   +---api
+|   |       |   |   \---types
+|   |       |   +---dest
+|   |       |   +---operator_versions
+|   |       |   +---packaged
+|   |       |   |   +---ATen
+|   |       |   |   |   +---native
+|   |       |   |   |   \---templates
+|   |       |   |   \---autograd
+|   |       |   |       \---templates
+|   |       |   +---selective_build
+|   |       |   \---static_runtime
+|   |       +---tqdm
+|   |       |   \---contrib
+|   |       +---tqdm-4.70.1.dist-info
+|   |       |   \---licenses
+|   |       +---transformers
+|   |       |   +---cli
+|   |       |   |   \---serving
+|   |       |   +---data
+|   |       |   |   +---datasets
+|   |       |   |   +---metrics
+|   |       |   |   \---processors
+|   |       |   +---distributed
+|   |       |   +---exporters
+|   |       |   +---generation
+|   |       |   |   \---continuous_batching
+|   |       |   +---integrations
+|   |       |   |   +---gguf
+|   |       |   |   +---heterogeneity
+|   |       |   |   \---mistral
+|   |       |   +---loss
+|   |       |   +---models
+|   |       |   |   +---afmoe
+|   |       |   |   +---aimv2
+|   |       |   |   +---albert
+|   |       |   |   +---align
+|   |       |   |   +---altclip
+|   |       |   |   +---apertus
+|   |       |   |   +---arcee
+|   |       |   |   +---aria
+|   |       |   |   +---audioflamingo3
+|   |       |   |   +---audio_spectrogram_transformer
+|   |       |   |   +---auto
+|   |       |   |   +---autoformer
+|   |       |   |   +---axk1
+|   |       |   |   +---axk2
+|   |       |   |   +---aya_vision
+|   |       |   |   +---bamba
+|   |       |   |   +---bark
+|   |       |   |   +---bart
+|   |       |   |   +---barthez
+|   |       |   |   +---bartpho
+|   |       |   |   +---beit
+|   |       |   |   +---bert
+|   |       |   |   +---bertweet
+|   |       |   |   +---bert_generation
+|   |       |   |   +---bert_japanese
+|   |       |   |   +---bigbird_pegasus
+|   |       |   |   +---big_bird
+|   |       |   |   +---biogpt
+|   |       |   |   +---bit
+|   |       |   |   +---bitnet
+|   |       |   |   +---blenderbot
+|   |       |   |   +---blenderbot_small
+|   |       |   |   +---blip
+|   |       |   |   +---blip_2
+|   |       |   |   +---bloom
+|   |       |   |   +---blt
+|   |       |   |   +---bridgetower
+|   |       |   |   +---bros
+|   |       |   |   +---byt5
+|   |       |   |   +---camembert
+|   |       |   |   +---canary
+|   |       |   |   +---canine
+|   |       |   |   +---chameleon
+|   |       |   |   +---chinese_clip
+|   |       |   |   +---chmv2
+|   |       |   |   +---clap
+|   |       |   |   +---clip
+|   |       |   |   +---clipseg
+|   |       |   |   +---clvp
+|   |       |   |   +---codegen
+|   |       |   |   +---code_llama
+|   |       |   |   +---cohere
+|   |       |   |   +---cohere2
+|   |       |   |   +---cohere2_moe
+|   |       |   |   +---cohere2_vision
+|   |       |   |   +---cohere_asr
+|   |       |   |   +---cohere_compass
+|   |       |   |   +---colmodernvbert
+|   |       |   |   +---colpali
+|   |       |   |   +---colqwen2
+|   |       |   |   +---conditional_detr
+|   |       |   |   +---convbert
+|   |       |   |   +---convnext
+|   |       |   |   +---convnextv2
+|   |       |   |   +---cosmos3_edge
+|   |       |   |   +---cosmos3_omni
+|   |       |   |   +---cpm
+|   |       |   |   +---cpmant
+|   |       |   |   +---csm
+|   |       |   |   +---ctrl
+|   |       |   |   +---cvt
+|   |       |   |   +---cwm
+|   |       |   |   +---dab_detr
+|   |       |   |   +---dac
+|   |       |   |   +---data2vec
+|   |       |   |   +---dbrx
+|   |       |   |   +---deberta
+|   |       |   |   +---deberta_v2
+|   |       |   |   +---decision_transformer
+|   |       |   |   +---deepseek_ocr2
+|   |       |   |   +---deepseek_v2
+|   |       |   |   +---deepseek_v3
+|   |       |   |   +---deepseek_v32
+|   |       |   |   +---deepseek_v4
+|   |       |   |   +---deepseek_vl
+|   |       |   |   +---deepseek_vl_hybrid
+|   |       |   |   +---deformable_detr
+|   |       |   |   +---deimv2
+|   |       |   |   +---deit
+|   |       |   |   +---deprecated
+|   |       |   |   +---depth_anything
+|   |       |   |   +---depth_pro
+|   |       |   |   +---detr
+|   |       |   |   +---dia
+|   |       |   |   +---diffllama
+|   |       |   |   +---diffusion_gemma
+|   |       |   |   +---dinat
+|   |       |   |   +---dinov2
+|   |       |   |   +---dinov2_with_registers
+|   |       |   |   +---dinov3_convnext
+|   |       |   |   +---dinov3_vit
+|   |       |   |   +---distilbert
+|   |       |   |   +---doge
+|   |       |   |   +---donut
+|   |       |   |   +---dots1
+|   |       |   |   +---dpr
+|   |       |   |   +---dpt
+|   |       |   |   +---d_fine
+|   |       |   |   +---edgetam
+|   |       |   |   +---edgetam_video
+|   |       |   |   +---efficientloftr
+|   |       |   |   +---efficientnet
+|   |       |   |   +---electra
+|   |       |   |   +---emu3
+|   |       |   |   +---encodec
+|   |       |   |   +---encoder_decoder
+|   |       |   |   +---eomt
+|   |       |   |   +---eomt_dinov3
+|   |       |   |   +---ernie
+|   |       |   |   +---ernie4_5
+|   |       |   |   +---ernie4_5_moe
+|   |       |   |   +---ernie4_5_vl_moe
+|   |       |   |   +---esm
+|   |       |   |   |   \---openfold_utils
+|   |       |   |   +---esmc
+|   |       |   |   +---esmfold2
+|   |       |   |   +---eurobert
+|   |       |   |   +---evolla
+|   |       |   |   +---exaone4
+|   |       |   |   +---exaone4_5
+|   |       |   |   +---exaone_moe
+|   |       |   |   +---falcon
+|   |       |   |   +---falcon_h1
+|   |       |   |   +---falcon_mamba
+|   |       |   |   +---fastspeech2_conformer
+|   |       |   |   +---fast_vlm
+|   |       |   |   +---flaubert
+|   |       |   |   +---flava
+|   |       |   |   +---flex_olmo
+|   |       |   |   +---florence2
+|   |       |   |   +---fnet
+|   |       |   |   +---focalnet
+|   |       |   |   +---fsmt
+|   |       |   |   +---funnel
+|   |       |   |   +---fun_asr_nano
+|   |       |   |   +---fuyu
+|   |       |   |   +---gemma
+|   |       |   |   +---gemma2
+|   |       |   |   +---gemma3
+|   |       |   |   +---gemma3n
+|   |       |   |   +---gemma4
+|   |       |   |   +---gemma4_assistant
+|   |       |   |   +---gemma4_unified
+|   |       |   |   +---gemma4_unified_assistant
+|   |       |   |   +---git
+|   |       |   |   +---glm
+|   |       |   |   +---glm4
+|   |       |   |   +---glm46v
+|   |       |   |   +---glm4v
+|   |       |   |   +---glm4v_moe
+|   |       |   |   +---glm4_moe
+|   |       |   |   +---glm4_moe_lite
+|   |       |   |   +---glm5_next
+|   |       |   |   +---glmasr
+|   |       |   |   +---glmga
+|   |       |   |   +---glm_image
+|   |       |   |   +---glm_moe_dsa
+|   |       |   |   +---glm_ocr
+|   |       |   |   +---glpn
+|   |       |   |   +---got_ocr2
+|   |       |   |   +---gpt2
+|   |       |   |   +---gptj
+|   |       |   |   +---gpt_bigcode
+|   |       |   |   +---gpt_neo
+|   |       |   |   +---gpt_neox
+|   |       |   |   +---gpt_neox_japanese
+|   |       |   |   +---gpt_oss
+|   |       |   |   +---gpt_sw3
+|   |       |   |   +---granite
+|   |       |   |   +---granite4_vision
+|   |       |   |   +---granitemoe
+|   |       |   |   +---granitemoehybrid
+|   |       |   |   +---granitemoeshared
+|   |       |   |   +---granitemoe_swa
+|   |       |   |   +---granite_speech
+|   |       |   |   +---granite_speech5
+|   |       |   |   +---granite_speech_plus
+|   |       |   |   +---granite_swa
+|   |       |   |   +---grounding_dino
+|   |       |   |   +---groupvit
+|   |       |   |   +---helium
+|   |       |   |   +---herbert
+|   |       |   |   +---hgnet_v2
+|   |       |   |   +---hiera
+|   |       |   |   +---higgs_audio_v2
+|   |       |   |   +---higgs_audio_v2_tokenizer
+|   |       |   |   +---hrm_text
+|   |       |   |   +---hubert
+|   |       |   |   +---hunyuan_v1_dense
+|   |       |   |   +---hunyuan_v1_moe
+|   |       |   |   +---hunyuan_vl
+|   |       |   |   +---hyperclovax
+|   |       |   |   +---hy_v3
+|   |       |   |   +---hy_v4
+|   |       |   |   +---ibert
+|   |       |   |   +---idefics
+|   |       |   |   +---idefics2
+|   |       |   |   +---idefics3
+|   |       |   |   +---ijepa
+|   |       |   |   +---imagegpt
+|   |       |   |   +---informer
+|   |       |   |   +---inkling
+|   |       |   |   +---instructblip
+|   |       |   |   +---instructblipvideo
+|   |       |   |   +---internvl
+|   |       |   |   +---jais2
+|   |       |   |   +---jamba
+|   |       |   |   +---janus
+|   |       |   |   +---jetmoe
+|   |       |   |   +---jina_embeddings_v3
+|   |       |   |   +---kimi_k25
+|   |       |   |   +---kimi_linear
+|   |       |   |   +---kosmos2
+|   |       |   |   +---kosmos2_5
+|   |       |   |   +---kyutai_speech_to_text
+|   |       |   |   +---laguna
+|   |       |   |   +---lasr
+|   |       |   |   +---layoutlm
+|   |       |   |   +---layoutlmv2
+|   |       |   |   +---layoutlmv3
+|   |       |   |   +---layoutxlm
+|   |       |   |   +---led
+|   |       |   |   +---levit
+|   |       |   |   +---lfm2
+|   |       |   |   +---lfm2_moe
+|   |       |   |   +---lfm2_vl
+|   |       |   |   +---lightglue
+|   |       |   |   +---lighton_ocr
+|   |       |   |   +---lilt
+|   |       |   |   +---llama
+|   |       |   |   +---llama4
+|   |       |   |   +---llava
+|   |       |   |   +---llava_next
+|   |       |   |   +---llava_next_video
+|   |       |   |   +---llava_onevision
+|   |       |   |   +---longcat_flash
+|   |       |   |   +---longformer
+|   |       |   |   +---longt5
+|   |       |   |   +---luke
+|   |       |   |   +---lw_detr
+|   |       |   |   +---lxmert
+|   |       |   |   +---m2m_100
+|   |       |   |   +---mamba
+|   |       |   |   +---mamba2
+|   |       |   |   +---marian
+|   |       |   |   +---markuplm
+|   |       |   |   +---mask2former
+|   |       |   |   +---maskformer
+|   |       |   |   +---mbart
+|   |       |   |   +---mbart50
+|   |       |   |   +---megatron_bert
+|   |       |   |   +---mellum
+|   |       |   |   +---metaclip_2
+|   |       |   |   +---mgp_str
+|   |       |   |   +---mimi
+|   |       |   |   +---mimo_v2_flash
+|   |       |   |   +---minicpm3
+|   |       |   |   +---minicpmv4_6
+|   |       |   |   +---minimax
+|   |       |   |   +---minimax_m2
+|   |       |   |   +---minimax_m3_vl
+|   |       |   |   +---ministral
+|   |       |   |   +---ministral3
+|   |       |   |   +---mistral
+|   |       |   |   +---mistral3
+|   |       |   |   +---mistral4
+|   |       |   |   +---mixtral
+|   |       |   |   +---mlcd
+|   |       |   |   +---mllama
+|   |       |   |   +---mluke
+|   |       |   |   +---mm_grounding_dino
+|   |       |   |   +---mobilebert
+|   |       |   |   +---mobilenet_v1
+|   |       |   |   +---mobilenet_v2
+|   |       |   |   +---mobilevit
+|   |       |   |   +---mobilevitv2
+|   |       |   |   +---modernbert
+|   |       |   |   +---modernbert_decoder
+|   |       |   |   +---modernvbert
+|   |       |   |   +---moonshine
+|   |       |   |   +---moonshine_streaming
+|   |       |   |   +---moshi
+|   |       |   |   +---mpnet
+|   |       |   |   +---mpt
+|   |       |   |   +---mra
+|   |       |   |   +---mt5
+|   |       |   |   +---muse_glimmer
+|   |       |   |   +---muse_glimmer_assistant
+|   |       |   |   +---musicflamingo
+|   |       |   |   +---musicgen
+|   |       |   |   +---musicgen_melody
+|   |       |   |   +---mvp
+|   |       |   |   +---myt5
+|   |       |   |   +---nanochat
+|   |       |   |   +---nemotron
+|   |       |   |   +---nemotron3_5_asr
+|   |       |   |   +---nemotron_asr_streaming
+|   |       |   |   +---nemotron_h
+|   |       |   |   +---neomme
+|   |       |   |   +---neucodec
+|   |       |   |   +---nllb
+|   |       |   |   +---nllb_moe
+|   |       |   |   +---nomic_bert
+|   |       |   |   +---nougat
+|   |       |   |   +---nystromformer
+|   |       |   |   +---olmo
+|   |       |   |   +---olmo2
+|   |       |   |   +---olmo3
+|   |       |   |   +---olmoe
+|   |       |   |   +---olmo_hybrid
+|   |       |   |   +---omdet_turbo
+|   |       |   |   +---oneformer
+|   |       |   |   +---openai
+|   |       |   |   +---openai_privacy_filter
+|   |       |   |   +---opt
+|   |       |   |   +---ovis2
+|   |       |   |   +---owlv2
+|   |       |   |   +---owlvit
+|   |       |   |   +---paddleocr_vl
+|   |       |   |   +---paligemma
+|   |       |   |   +---parakeet
+|   |       |   |   +---patchtsmixer
+|   |       |   |   +---patchtst
+|   |       |   |   +---pegasus
+|   |       |   |   +---pegasus_x
+|   |       |   |   +---perceiver
+|   |       |   |   +---perception_lm
+|   |       |   |   +---persimmon
+|   |       |   |   +---pe_audio
+|   |       |   |   +---pe_audio_video
+|   |       |   |   +---pe_video
+|   |       |   |   +---phi
+|   |       |   |   +---phi3
+|   |       |   |   +---phi4_multimodal
+|   |       |   |   +---phimoe
+|   |       |   |   +---phobert
+|   |       |   |   +---pi0
+|   |       |   |   +---pix2struct
+|   |       |   |   +---pixio
+|   |       |   |   +---pixtral
+|   |       |   |   +---plbart
+|   |       |   |   +---poolformer
+|   |       |   |   +---pop2piano
+|   |       |   |   +---pp_chart2table
+|   |       |   |   +---pp_doclayout_v2
+|   |       |   |   +---pp_doclayout_v3
+|   |       |   |   +---pp_formulanet
+|   |       |   |   +---pp_lcnet
+|   |       |   |   +---pp_lcnet_v3
+|   |       |   |   +---pp_lcnet_v4
+|   |       |   |   +---pp_ocrv5_mobile_det
+|   |       |   |   +---pp_ocrv5_mobile_rec
+|   |       |   |   +---pp_ocrv5_server_det
+|   |       |   |   +---pp_ocrv5_server_rec
+|   |       |   |   +---pp_ocrv6_medium_det
+|   |       |   |   +---pp_ocrv6_small_det
+|   |       |   |   +---pp_ocrv6_small_rec
+|   |       |   |   +---pp_ocrv6_tiny_rec
+|   |       |   |   +---prompt_depth_anything
+|   |       |   |   +---prophetnet
+|   |       |   |   +---pvt
+|   |       |   |   +---pvt_v2
+|   |       |   |   +---qianfan_ocr
+|   |       |   |   +---qwen2
+|   |       |   |   +---qwen2_5_omni
+|   |       |   |   +---qwen2_5_vl
+|   |       |   |   +---qwen2_audio
+|   |       |   |   +---qwen2_moe
+|   |       |   |   +---qwen2_vl
+|   |       |   |   +---qwen3
+|   |       |   |   +---qwen3_5
+|   |       |   |   +---qwen3_5_moe
+|   |       |   |   +---qwen3_asr
+|   |       |   |   +---qwen3_moe
+|   |       |   |   +---qwen3_next
+|   |       |   |   +---qwen3_omni_moe
+|   |       |   |   +---qwen3_vl
+|   |       |   |   +---qwen3_vl_moe
+|   |       |   |   +---qwen4_exp
+|   |       |   |   +---radio
+|   |       |   |   +---rag
+|   |       |   |   +---recurrent_gemma
+|   |       |   |   +---reformer
+|   |       |   |   +---regnet
+|   |       |   |   +---rembert
+|   |       |   |   +---resnet
+|   |       |   |   +---rf_detr
+|   |       |   |   +---roberta
+|   |       |   |   +---roberta_prelayernorm
+|   |       |   |   +---roc_bert
+|   |       |   |   +---roformer
+|   |       |   |   +---rt_detr
+|   |       |   |   +---rt_detr_v2
+|   |       |   |   +---rwkv
+|   |       |   |   +---sam
+|   |       |   |   +---sam2
+|   |       |   |   +---sam2_video
+|   |       |   |   +---sam3
+|   |       |   |   +---sam3_lite_text
+|   |       |   |   +---sam3_tracker
+|   |       |   |   +---sam3_tracker_video
+|   |       |   |   +---sam3_video
+|   |       |   |   +---sam_hq
+|   |       |   |   +---sapiens2
+|   |       |   |   +---seamless_m4t
+|   |       |   |   +---seamless_m4t_v2
+|   |       |   |   +---seed_oss
+|   |       |   |   +---segformer
+|   |       |   |   +---seggpt
+|   |       |   |   +---sew
+|   |       |   |   +---sew_d
+|   |       |   |   +---shieldgemma2
+|   |       |   |   +---siglip
+|   |       |   |   +---siglip2
+|   |       |   |   +---slanet
+|   |       |   |   +---slanext
+|   |       |   |   +---smollm3
+|   |       |   |   +---smolvlm
+|   |       |   |   +---solar_open
+|   |       |   |   +---speecht5
+|   |       |   |   +---speech_encoder_decoder
+|   |       |   |   +---speech_to_text
+|   |       |   |   +---splinter
+|   |       |   |   +---squeezebert
+|   |       |   |   +---stablelm
+|   |       |   |   +---starcoder2
+|   |       |   |   +---step3p7
+|   |       |   |   +---superglue
+|   |       |   |   +---superpoint
+|   |       |   |   +---swiftformer
+|   |       |   |   +---swin
+|   |       |   |   +---swin2sr
+|   |       |   |   +---swinv2
+|   |       |   |   +---switch_transformers
+|   |       |   |   +---t5
+|   |       |   |   +---t5gemma
+|   |       |   |   +---t5gemma2
+|   |       |   |   +---table_transformer
+|   |       |   |   +---tapas
+|   |       |   |   +---textnet
+|   |       |   |   +---timesfm
+|   |       |   |   +---timesfm2_5
+|   |       |   |   +---timesformer
+|   |       |   |   +---time_series_transformer
+|   |       |   |   +---timm_backbone
+|   |       |   |   +---timm_wrapper
+|   |       |   |   +---tipsv2
+|   |       |   |   +---tipsv2_dpt
+|   |       |   |   +---trocr
+|   |       |   |   +---tvp
+|   |       |   |   +---udop
+|   |       |   |   +---umt5
+|   |       |   |   +---unispeech
+|   |       |   |   +---unispeech_sat
+|   |       |   |   +---univnet
+|   |       |   |   +---upernet
+|   |       |   |   +---uvdoc
+|   |       |   |   +---vaultgemma
+|   |       |   |   +---vibevoice
+|   |       |   |   +---vibevoice_acoustic_tokenizer
+|   |       |   |   +---vibevoice_asr
+|   |       |   |   +---videomae
+|   |       |   |   +---videomt
+|   |       |   |   +---videoprism
+|   |       |   |   +---video_llama_3
+|   |       |   |   +---video_llava
+|   |       |   |   +---vilt
+|   |       |   |   +---vipllava
+|   |       |   |   +---vision_encoder_decoder
+|   |       |   |   +---vision_text_dual_encoder
+|   |       |   |   +---visual_bert
+|   |       |   |   +---vit
+|   |       |   |   +---vitdet
+|   |       |   |   +---vitmatte
+|   |       |   |   +---vitpose
+|   |       |   |   +---vitpose_backbone
+|   |       |   |   +---vits
+|   |       |   |   +---vit_mae
+|   |       |   |   +---vit_msn
+|   |       |   |   +---vivit
+|   |       |   |   +---vjepa2
+|   |       |   |   +---voxtral
+|   |       |   |   +---voxtral_realtime
+|   |       |   |   +---wav2vec2
+|   |       |   |   +---wav2vec2_bert
+|   |       |   |   +---wav2vec2_conformer
+|   |       |   |   +---wav2vec2_phoneme
+|   |       |   |   +---wav2vec2_with_lm
+|   |       |   |   +---wavlm
+|   |       |   |   +---whisper
+|   |       |   |   +---xcodec
+|   |       |   |   +---xcodec2
+|   |       |   |   +---xglm
+|   |       |   |   +---xlm
+|   |       |   |   +---xlm_roberta
+|   |       |   |   +---xlm_roberta_xl
+|   |       |   |   +---xlnet
+|   |       |   |   +---xlstm
+|   |       |   |   +---xmod
+|   |       |   |   +---x_clip
+|   |       |   |   +---yolos
+|   |       |   |   +---yoso
+|   |       |   |   +---youtu
+|   |       |   |   +---zamba
+|   |       |   |   +---zamba2
+|   |       |   |   +---zaya
+|   |       |   |   \---zoedepth
+|   |       |   +---pipelines
+|   |       |   +---quantizers
+|   |       |   \---utils
+|   |       |       \---chat_parsing
+|   |       +---transformers-5.17.0.dist-info
+|   |       |   \---licenses
+|   |       +---typer
+|   |       |   +---.agents
+|   |       |   |   \---skills
+|   |       |   |       \---typer
+|   |       |   \---_click
+|   |       +---typer-0.27.2.dist-info
+|   |       |   \---licenses
+|   |       +---typing_extensions-4.16.0.dist-info
+|   |       |   \---licenses
+|   |       +---typing_inspection
+|   |       |   \---__pycache__
+|   |       +---typing_inspection-0.4.4.dist-info
+|   |       |   \---licenses
+|   |       +---tzdata
+|   |       |   \---zoneinfo
+|   |       |       +---Africa
+|   |       |       +---America
+|   |       |       |   +---Argentina
+|   |       |       |   +---Indiana
+|   |       |       |   +---Kentucky
+|   |       |       |   \---North_Dakota
+|   |       |       +---Antarctica
+|   |       |       +---Arctic
+|   |       |       +---Asia
+|   |       |       +---Atlantic
+|   |       |       +---Australia
+|   |       |       +---Brazil
+|   |       |       +---Canada
+|   |       |       +---Chile
+|   |       |       +---Etc
+|   |       |       +---Europe
+|   |       |       +---Indian
+|   |       |       +---Mexico
+|   |       |       +---Pacific
+|   |       |       \---US
+|   |       +---tzdata-2026.4.dist-info
+|   |       |   \---licenses
+|   |       |       \---licenses
+|   |       +---urllib3
+|   |       |   +---contrib
+|   |       |   |   \---emscripten
+|   |       |   +---http2
+|   |       |   \---util
+|   |       +---urllib3-2.8.0.dist-info
+|   |       |   \---licenses
+|   |       +---uvicorn
+|   |       |   +---lifespan
+|   |       |   +---loops
+|   |       |   +---middleware
+|   |       |   +---protocols
+|   |       |   |   +---http
+|   |       |   |   \---websockets
+|   |       |   \---supervisors
+|   |       +---uvicorn-0.53.0.dist-info
+|   |       |   \---licenses
+|   |       +---watchfiles
+|   |       +---watchfiles-1.2.0.dist-info
+|   |       |   +---licenses
+|   |       |   \---sboms
+|   |       +---websockets
+|   |       |   +---asyncio
+|   |       |   +---extensions
+|   |       |   +---legacy
+|   |       |   \---sync
+|   |       +---websockets-16.1.1.dist-info
+|   |       |   \---licenses
+|   |       +---yaml
+|   |       +---_distutils_hack
+|   |       +---_yaml
+|   |       \---__pycache__
+|   +---Scripts
+|   \---share
+|       \---man
+|           \---man1
++---app
+|   +---api
+|   +---config
+|   |   \---__pycache__
+|   +---database
+|   |   \---__pycache__
+|   +---generation
+|   +---ingestion
+|   |   \---__pycache__
+|   +---models
+|   |   \---__pycache__
+|   +---retrieval
+|   \---__pycache__
++---data
+|   +---processed
+|   \---raw
++---scripts
+|   \---__pycache__
+\---tests
