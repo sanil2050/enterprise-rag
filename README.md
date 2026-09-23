@@ -26,48 +26,36 @@ The project is designed around an enterprise requirement:
 ## Architecture
 
 ```mermaid
-flowchart TB
+flowchart TD
+    A[User in Web Frontend] -->|1. POST /chat with Bearer JWT| B[FastAPI Backend]
+    B -->|2. Verify Token & Extract Role| C[JWT Auth & RBAC]
+    B -->|3. Fetch Last 6 Messages| D[(PostgreSQL Conversation Store)]
+    D -->|4. History + Current Question| E[Query Rewriter - Nemotron LLM]
+    E -->|5. Standalone Search Query| F[Agent Planner Router]
+    
+    F -->|Document Questions| G[Hybrid Document RAG]
+    F -->|Entity/Relationship Questions| H[GraphRAG Engine]
+    
+    subgraph Hybrid Retrieval [Hybrid Search Layer]
+        G -->|Vector Cosine Similarity| I[(PostgreSQL + pgvector)]
+        G -->|Full-Text Lexical Search| J[(PostgreSQL tsvector / keyword)]
+        I -->|Top-20 Semantic| K[Reciprocal Rank Fusion RRF]
+        J -->|Top-20 Lexical| K
+        K -->|Top-10 Fused Chunks| L[Cross-Encoder Reranker: MiniLM-L-6-v2]
+        L -->|Top-5 Re-scored Chunks| M[Evidence Context S1..S5]
+    end
 
-    U[User / Frontend]
+    subgraph Graph Layer [Graph Retrieval Layer]
+        H -->|Entity Matching + RBAC Filter| N[(PostgreSQL Graph Tables)]
+        N -->|Subject-Predicate-Object| O[Graph Evidence G1..Gk]
+    end
 
-    U --> API[FastAPI API]
-
-    API --> AUTH[JWT Authentication + RBAC]
-    API --> CONV[Conversation Store]
-    API --> AGENT[Agent Planner]
-
-    AGENT --> DOC[Document RAG]
-    AGENT --> GRAPH[GraphRAG]
-
-    DOC --> SEM[Semantic Search]
-    DOC --> KEY[Keyword Search]
-
-    SEM --> RRF[RRF Fusion]
-    KEY --> RRF
-
-    RRF --> RERANK[Cross-Encoder Reranker]
-
-    GRAPH --> GE[Graph Evidence Retrieval]
-
-    RERANK --> EVID[Evidence + Citation Validation]
-    GE --> EVID
-
-    EVID --> GEN[Nemotron Generation<br/>via OpenRouter]
-
-    GEN --> RESP[Answer + Citations]
-
-    DB[(PostgreSQL + pgvector)]
-
-    DB --> SEM
-    DB --> KEY
-    DB --> GE
-    DB --> CONV
-
-    OBS[Structured Observability]
-
-    API --> OBS
-    AGENT --> OBS
-    EVID --> OBS
+    M --> P[Generation Layer: Nemotron 3 Ultra 550B]
+    O --> P
+    P -->|Generates JSON with Answer & Citations| Q[Citation Validator]
+    Q -->|Checks if citation IDs match retrieved chunks| R{Valid Citations?}
+    R -->|Yes| S[Save to DB & Return to UI with Source Excerpts]
+    R -->|No / Fabricated| T[Safe Fallback: Reject ungrounded answer]
 ```
 
 ---
