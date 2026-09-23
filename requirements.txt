@@ -18,4 +18,5 @@ pyjwt
 pwdlib[argon2]
 python-multipart
 
+google-genai
 openai
